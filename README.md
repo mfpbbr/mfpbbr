@@ -1,6 +1,5 @@
-### <p align="center">Hi there 👋 , I'm Miguel</p>
+## <p align="center"><b>Hi there 👋 , I'm Miguel</b></p>
 
-## Languages and Frameworks
 
 ### Backend:
 <p align="left">
