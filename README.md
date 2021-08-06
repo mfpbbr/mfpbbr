@@ -1,54 +1,70 @@
 ### Hi there 👋
 
-**🔭 LANGUAGES**
+# <p align="center">I'm Miguel</p>
 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+## About me
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F
+- 💻 I’m a full stack developer.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- 👶 I was born in Rio de Janeiro, Brasil.
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- 🏡 I still live in Rio since then.
 
-**🚀 FRAMEWORKS**
+- 🎙️ I started coding in 2010.
 
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+- 💼 I’m cofounder of Yedinc
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+- 📚 I’m currently developing in Nextjs.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-**📊 DATABASE**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-**☁ SERVER**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-**💻 OS**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+- ✍️ I will start writing some articles soon..
 
 
+## Languages and tools
 
-- 
+### Frontend:
+
+<p align="left">
+<a href="https://reactjs.org" target="_blank"><img align="center" src="./logos/reactjs.svg" alt="ReactJs" title="ReactJs" height="40"/></a> &bull; <a href="https://redux.js.org" target="_blank"><img align="center" src="./logos/redux.svg" alt="Redux" title="Redux" height="40"/></a> &bull; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="./logos/javascript.svg" alt="Javascript" title="Javascript" height="40"/></a> &bull; <a href="https://www.w3.org/html/" target="_blank"><img align="center" src="./logos/html5.svg" alt="HTML 5" title="HTML 5" height="40"/></a> &bull; <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="./logos/css3.svg" alt="CSS 3" title="CSS 3" height="40"/></a> &bull; <a href="https://nextjs.org/" target="_blank"><img align="center" src="./logos/nextjs.svg" alt="NextJs" title="NextJs" height="40"/></a> &bull; <a href="https://material-ui.com/" target="_blank"><img align="center" src="./logos/material-ui.svg" alt="Material UI" title="Material UI" height="40"/></a> &bull; <a href="https://sass-lang.com" target="_blank"><img align="center" src="./logos/sass.svg" alt="SASS" title="SASS" height="40"/></a> &bull; <a href="https://babeljs.io/" target="_blank"><img align="center" src="./logos/babel.svg" alt="Babel" title="Babel" height="40"/></a> &bull; <a href="https://getbootstrap.com" target="_blank"><img align="center" src="./logos/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="40"/></a> &bull; <a href="https://www.chartjs.org" target="_blank"><img align="center" src="./logos/chartjs.svg" alt="Chartjs"  title="Chartjs" height="40"/></a> &bull; <a href="https://jestjs.io" target="_blank"><img align="center" src="./logos/jestjs.svg" alt="Jest" title="Jest" height="40"/></a>
+</p>
+
+### Backend:
+
+<p align="left">
+<a href="https://nodejs.org" target="_blank"><img align="center" src="./logos/nodejs.svg" alt="Nodejs" title="Nodejs" height="40"/></a> &bull; <a href="https://adonisjs.com" target="_blank"><img align="center" src="./logos/adonisjs.svg" alt="Adonis" title="Adonis" height="40"/></a> &bull; <a href="https://expressjs.com" target="_blank"><img align="center" src="./logos/express.svg" alt="Express" title="Express" height="40"/></a> &bull; <a href="https://sequelize.org" target="_blank"><img align="center" src="./logos/sequelize.svg" alt="Sequelize" title="Sequelize" height="40"/></a> &bull; <a href="https://www.php.net" target="_blank"><img align="center" src="./logos/php.svg" alt="PHP" title="PHP" height="40"/></a> &bull; <a href="https://laravel.com/" target="_blank"><img align="center" src="./logos/laravel.svg" alt="Laravel" title="Laravel" height="40"/></a> &bull; <a href="https://codeigniter.com" target="_blank"><img align="center" src="./logos/codeigniter.svg" alt="Codeigniter" title="Codeigniter" height="40"/></a>
+</p>
+
+### Database:
+
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank"><img align="center" src="./logos/mysql.svg" alt="MySQL" title="MySQL" height="40"/></a> &bull; <a href="https://www.postgresql.org" target="_blank"><img align="center" src="./logos/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="40"/></a>
+</p>
+
+### Devops:
+
+<p align="left">
+<a href="https://www.docker.com/" target="_blank"><img align="center" src="./logos/docker.svg" alt="Docker" title="Docker" height="40"/></a> &bull; <a href="https://www.vagrantup.com/" target="_blank"><img align="center" src="./logos/vagrant.svg" alt="Vagrant" title="Vagrant" height="40"/></a> &bull; <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" src="./logos/bash.svg" alt="Bash" title="Bash" height="40"/></a> &bull; <a href="https://heroku.com" target="_blank"><img align="center" src="./logos/heroku.svg" alt="Heroku" title="Heroku" height="40"/></a> &bull; <a href="https://www.digitalocean.com/" target="_blank"><img align="center" src="./logos/digitalocean.svg" alt="DigitalOcean" title="DigitalOcean" height="40"/></a>
+</p>
+
+### Software:
+
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="./logos/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="40"/></a> &bull; <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img align="center" src="./logos/phpstorm.svg" alt="PHPStorm" title="PHPStorm" height="40"/></a> &bull; <a href="https://postman.com" target="_blank"><img align="center" src="./logos/getpostman.svg" alt="Postman" title="Postman" height="40"/></a> &bull; <a href="https://www.figma.com/" target="_blank"><img align="center" src="./logos/figma.svg" alt="Figma" title="Figma" height="40"/></a> &bull; <a href="https://www.photoshop.com/en" target="_blank"><img align="center" src="./logos/photoshop-cc.svg" alt="Photoshop" title="Photoshop" height="40"/></a>
+</p>
+
+### Others:
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank"><img align="center" src="./logos/git.svg" alt="Git" title="Git" height="40"/></a> &bull; <a href="https://firebase.google.com/" target="_blank"><img align="center" src="./logos/firebase.svg" alt="Firebase" title="Firebase" height="40"/></a> &bull; <a href="https://ubuntu.com/" target="_blank"><img align="center" src="./logos/ubuntu.svg" alt="Ubuntu" title="Ubuntu" height="40"/></a>
+</p>
+
+## On Github
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jullymac&margin-w=10" alt="jullymac" /></a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullymac&show_icons=true&locale=en&layout=compact&langs_count=8" alt="jullymac" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jullymac&show_icons=true&locale=en&count_private=true" alt="jullymac" />
+
 <!--
 **mfpbbr/mfpbbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
