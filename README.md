@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# <p align="center">I'm Miguel</p>
+### <p align="center">Hi there 👋 , I'm Miguel</p>
 
 ## Languages and Frameworks
 
