@@ -1,7 +1,7 @@
 ## <p align="center"><b>Hi there 👋  I'm Miguel</b></p>
 
 
-### What i create with:
+### I create with:
 <p align="left">
 
 <b>Backend</b> &bull; <a href="https://www.ruby-lang.org/" target="_blank"><img align="center" src="./logos/png/ruby-badge-5.png" alt="Ruby" title="Ruby" height="40"/></a> &bull; <a href="https://rubyonrails.org/" target="_blank"><img align="center" src="./logos/png/rails-badge-7.png" alt="rails" title="Rails" height="40"/></a> &bull; <a href="https://nextjs.org/" target="_blank"><img align="center" src="./logos/png/nextjs-badge.png" alt="NextJs" title="NextJs" height="40"/></a> &bull; <a href="https://nodejs.org/" target="_blank"><img align="center" src="./logos/nodejs.svg" alt="Nodejs" title="Nodejs" height="40"/></a> &bull; <a href="https://expressjs.com/" target="_blank"><img align="center" src="./logos/png/express-badge.png" alt="express" title="Express" height="40"/></a>
